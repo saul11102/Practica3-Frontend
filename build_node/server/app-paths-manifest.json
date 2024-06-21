@@ -1,0 +1,7 @@
+{
+  "/session/page": "app/session/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/lote/page": "app/lote/page.js",
+  "/producto/page": "app/producto/page.js",
+  "/galeria/page": "app/galeria/page.js"
+}

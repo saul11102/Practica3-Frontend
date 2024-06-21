@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "/session/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/session/page.css",
+      "static/chunks/app/session/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/dashboard/page.css",
+      "static/chunks/app/dashboard/page.js"
+    ],
+    "/lote/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/lote/page.css",
+      "static/chunks/app/lote/page.js"
+    ],
+    "/producto/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/producto/page.css",
+      "static/chunks/app/producto/page.js"
+    ],
+    "/galeria/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/galeria/page.css",
+      "static/chunks/app/galeria/page.js"
+    ]
+  }
+}
